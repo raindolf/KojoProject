@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kojo/Kojo.iml" filepath="$PROJECT_DIR$/Kojo/Kojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KojoProject.iml" filepath="$PROJECT_DIR$/KojoProject.iml" />
+    </modules>
+  </component>
+</project>
+
